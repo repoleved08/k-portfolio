@@ -4,6 +4,7 @@ const navTwitter = document.getElementById('nav-twitter');
 const fSlash = document.querySelectorAll('.f-slash');
 
 window.addEventListener('resize', toggleElement);
+window.addEventListener('load', toggleElement);
 
 function toggleElement() {
     if (window.innerWidth <= 696) {
