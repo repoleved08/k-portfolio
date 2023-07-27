@@ -59,7 +59,7 @@ body {
 
 .nav-links ul li a {
     text-decoration: none;
-    color: red;
+    color: #eee;
 }
 .nav-links ul li a:hover{
     color: yellowgreen;
